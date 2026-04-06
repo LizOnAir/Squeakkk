@@ -1,10 +1,13 @@
 # Squeakkk
-This is a 3d printed customize mouse V2. I created this to replace my old broken mouse :D. 
+This is a 3d printed customize mouse V2. I created this to replace my old broken mouse :D.
+
+<img width="325" height="460" alt="Screenshot 2026-04-06 at 6 11 15 PM" src="https://github.com/user-attachments/assets/086462f8-d6fb-47ed-9f7f-7a9e173a6588" />
 
 ## Features:
 - wireless
 - ease to use
 - optical sensors
+
 - sleek modern design
 
 ## CAD Model:
