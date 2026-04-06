@@ -1,5 +1,5 @@
 # Squeakkk
-This is a 3d printed customize mouse V2. I created this to replace my old broken mouse :D.
+This is a 3d printed customize mouse V2. I created this to replace my old mouse with broken click pad :D.
 
 <img width="325" height="460" alt="Screenshot 2026-04-06 at 6 11 15 PM" src="https://github.com/user-attachments/assets/086462f8-d6fb-47ed-9f7f-7a9e173a6588" />
 
@@ -11,7 +11,8 @@ This is a 3d printed customize mouse V2. I created this to replace my old broken
 - sleek modern design
 
 ## CAD Model:
-Download the case [here](https://github.com/LizOnAir/Squeakkk/blob/main/CAD/Mouse%20Print.step)
+Download the case [here](https://github.com/LizOnAir/Squeakkk/blob/main/CAD/Mouse%20Print.step) and print yours!
+
 <img width="608" height="438" alt="Screenshot 2026-04-06 at 5 01 33 PM" src="https://github.com/user-attachments/assets/814fc722-2665-43af-8d69-c3b784e0a196" />
 
 By Liz from fusion 360
