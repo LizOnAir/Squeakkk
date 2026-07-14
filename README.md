@@ -1,5 +1,6 @@
 # Squeakkk
 This is a 3d printed customize mouse V2. I created this to replace my old mouse with broken click pad :D.
+(ps: I'm using mouse kit from 3D Bambu Lab)
 
 <img width="464" height="567" alt="Screenshot 2026-07-02 at 4 08 34 PM" src="https://github.com/user-attachments/assets/c5536555-a864-4c1b-bc7d-eea0dd25a02a" />
 
