@@ -4,7 +4,6 @@ This is a 3d printed customize mouse V2. I created this to replace my old mouse 
 
 <img width="464" height="567" alt="Screenshot 2026-07-02 at 4 08 34 PM" src="https://github.com/user-attachments/assets/c5536555-a864-4c1b-bc7d-eea0dd25a02a" />
 
-
 <img width="316" height="450" alt="Screenshot 2026-07-02 at 3 57 47 PM" src="https://github.com/user-attachments/assets/9aaa1011-70b3-41fb-83b3-28492797091c" />
 
 Click for [Video Demo](https://youtube.com/shorts/cuypaO3Ge0Q?si=YEDh0BlHNZ5eU-Zp)
